@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Kashi aaye tumi? </h1>
+   <h1> Baburao Ganpatrao Apte </h1>
 
   
 </form>
