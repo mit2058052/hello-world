@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Chor ke ghar pe chori!! ;) </h1>
+   <h1> kachra seth ka kachra nai karne ka!! </h1>
 
   
 </form>
